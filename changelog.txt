@@ -1,4 +1,4 @@
-[h1]Update 1.2.0[/h1]
+[h1]1.2.0[/h1]
 The pause menus have been touched up!
 [quote]
 [h2]Changes[/h2]
