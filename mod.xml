@@ -1,0 +1,8 @@
+<Mod
+	name="SpicyTP:FFUI 1.1.1"
+	description="A texturepack that gives gives Noita's UI a heavy, metallic aesthetic.
+Created for the Youtuber and Twitcher 'FuryForged'.
+Tip: If two texture packs replace the same sprite, the pack lowest in the mod list takes priority over that sprite.
+To function correctly with SpicyTP:Core, this mod must be placed AFTER it in the load order."
+> 
+</Mod>
