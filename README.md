@@ -1,5 +1,5 @@
 # Spicy's Texture Pack: FuryForged UI 1.2.0
-is a texture pack that gives Noita's UI a heavy and metallic aesthetic. It was created for the [url=https://www.youtube.com/furyforged]Youtuber[/url] and [url=https://www.twitch.tv/furyforged]Twitch streamer[/url] 'FuryForged'.
+is a texture pack that gives Noita's UI a heavy and metallic aesthetic. It was created for the [Youtuber](https://www.youtube.com/furyforged) and [Twitch streamer](https://www.twitch.tv/furyforged) 'FuryForged'.
 
 The full description is on the Steam Workshop. [Check it out there!](https://steamcommunity.com/sharedfiles/filedetails/?id=2892364418)
 ### Join the Discord!
