@@ -1,9 +1,9 @@
-[h1]Update 1.2.1[/h1]
-Fixed a visual error with the pause menu graphics.
+[h1]Update 1.2.2[/h1]
+Mod should no longer have the "This mod has not been tested with the latest version" message.
 [quote]
 [h2]Changes[/h2]
-[b]Miscellaneous UI Elements[/b]
+[b]Technical[/b]
 [list]
-[*]Tweaked Pause Menu Graphics (2)
+[*]Updated the API version number
 [/list]
 [/quote]
